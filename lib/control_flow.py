@@ -20,8 +20,9 @@ def hows_the_weather(temperature):
     pass
 
 def fizzbuzz(num):
-      if num % 3 == 0 and num % 5 == 0:
-        return "fizzbuzz"
+       if number % 3 == 0 and number % 5 == 0:
+        return "FizzBuzz"
+    
    
     
 
