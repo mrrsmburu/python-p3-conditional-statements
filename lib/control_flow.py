@@ -6,7 +6,7 @@ def admin_login(username, password):
         return "Access granted"
     else:
         return "Access denied"
-    pass
+    
 
 def hows_the_weather(temperature):
     if temperature < 40:
@@ -17,12 +17,11 @@ def hows_the_weather(temperature):
         return "It's too dang hot out there!"
     else:
         return "It's perfect out there!"
+      
+      
+def fizzbuzz(num):
     pass
 
-def fizzbuzz(num):
-       if number % 3 == 0 and number % 5 == 0:
-        return "FizzBuzz"
-    
    
     
 
